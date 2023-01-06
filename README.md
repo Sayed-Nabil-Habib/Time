@@ -1,2 +1,2 @@
 # Time
-To be first javaScript 
+To be first javaScript mini Project :)
