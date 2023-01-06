@@ -2,11 +2,10 @@ body{
   background-color: black;
 }
 .clock{
-  position: absolute;
-  top: 50%;
-  left:50%;
+  display: flex;
+  justify-content: center;
   color:white;
   letter-spacing: 7px;
   font-size: 60px;
-  font-family: Orbitron;
+  font-family: 'poppins', sans-serif;
 }
